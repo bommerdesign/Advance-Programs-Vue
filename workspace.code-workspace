@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../learning/learning-vue"
+		},
+		{
+			"path": "../../vue-starting-source-code"
+		}
+	],
+	"settings": {
+		"editor.tabSize": 2
+	}
+}
